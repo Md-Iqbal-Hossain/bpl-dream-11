@@ -2,7 +2,7 @@ import React, { use, useState } from 'react';
 import AvailablePlayers from './AvailablePlayers';
 import SelectedPlayers from './SelectedPlayers/SelectedPlayers';
 
-const Players = ({playersPromise}) => {
+const Players = ({playersPromise, setCoin, coin}) => {
     const players = use(playersPromise);
     // console.log(players);
     
@@ -19,7 +19,7 @@ const Players = ({playersPromise}) => {
                 </div>
             </div>
 
-            {selectedType === 'available' ?<AvailablePlayers players={players}/> : <SelectedPlayers/>}
+            {selectedType === 'available' ?<AvailablePlayers players={players} setCoin={setCoin} coin={coin}/> : <SelectedPlayers/>}
         </div>
     );
 };

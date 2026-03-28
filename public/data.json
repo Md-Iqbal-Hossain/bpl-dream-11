@@ -6,7 +6,7 @@
     "rating": 92,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": 1500000,
+    "price": 50000000000,
     "playerImg": "https://i.ibb.co.com/bjLfsKhr/images.webp"
   },
   {
@@ -16,7 +16,7 @@
     "rating": 90,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1400000,
+    "price": 1500,
     "playerImg": "https://i.ibb.co.com/RTLDmDYt/images.jpg"
   },
   {
@@ -26,7 +26,7 @@
     "rating": 88,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
-    "price": 1600000,
+    "price": 2500,
     "playerImg": "https://i.ibb.co.com/7d4CzFVw/images-1.jpg"
   },
   {
@@ -36,7 +36,7 @@
     "rating": 89,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1450000,
+    "price": 500,
     "playerImg": "https://i.ibb.co.com/ZpKWfWFS/skysports-kane-williamson-new-zealand-7069504.jpg"
   },
   {
@@ -46,7 +46,7 @@
     "rating": 87,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm orthodox",
-    "price": 1300000,
+    "price": 1000,
     "playerImg": "https://i.ibb.co.com/tT5DWGkP/7992d7c9ecf9aaf1e8c353c34b92c41e.jpg"
   },
   {
@@ -56,7 +56,7 @@
     "rating": 91,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm fast",
-    "price": 1550000,
+    "price": 1500,
     "playerImg": "https://i.ibb.co.com/FksH6PZY/Mitchell-Starc-Australia-2015-3321077.jpg"
   }
 ]
